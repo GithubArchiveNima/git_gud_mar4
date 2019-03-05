@@ -1,0 +1,6 @@
+// CTRL + CMD + arrow key (up or down)
+console.log('heyoooo')
+console.log('suh my dudes')
+console.log('suh my dudes')
+console.log('suh my dudes')
+console.log('suh my dudes')
