@@ -1,0 +1,3 @@
+function printEmoji() {
+	console.log('🕺')
+}
